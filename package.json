@@ -1,0 +1,15 @@
+{
+  "name": "emailnotifier",
+  "version": "1.0.0",
+  "description": "Notify via Email, the status of a repository",
+  "main": "emailNotifier.js",
+  "scripts": {
+    "test": "node emailNotifier.js"
+    
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemailer": "^6.8.0"
+  }
+}
